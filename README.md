@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/johndays/](https://www.linkedin.com/in/johndays/)
 
-- ⚡ Fun fact **I love to code!**
+- ⚡ Fun fact **My favorite hobbies are rock climbing, ballroom dancing, and Brazilian Jiu-Jistu!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
