@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Days</h1>
-<h3 align="center">A Full-Stack Engineer and UX Designer to create efficient and impactful software.</h3>
+<h3 align="center">A Full-Stack Engineer that creates efficient and impactful software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathancdays&label=Profile%20views&color=0e75b6&style=flat" alt="jonathancdays" /> </p>
 
-- 🌱 I’m currently learning **Java & Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://www.jonathancdays.com/](https://www.jonathancdays.com/)
-
-- 💬 Ask me about **the MERN stack!**
+- 🌱 I’m currently working with **JavaScript & React w/ Java & Spring Boot**
 
 - 📫 How to reach me **jonathancdays@gmail.com**
 
