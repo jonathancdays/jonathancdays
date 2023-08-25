@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **My favorite hobbies are rock climbing, ballroom dancing, and Brazilian Jiu-Jistu!**
 
-- Take a look at at my <a href="https://www.jonathancdays.com/">Portfolio!</a>
+- Take a look at at my <a href="https://www.jonathancdays.com/" target="_blank" rel="noopener noreferrer">Portfolio!</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/jonathandays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jonathandays" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/johndays/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johndays/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/johndays/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jondays/" height="30" width="40" /></a>
 <a href="https://medium.com/@jonathancdays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jonathancdays" height="30" width="40" /></a>
 </p>
 
