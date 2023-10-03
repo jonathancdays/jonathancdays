@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Days</h1>
+<h1 align="center">Hi, I'm Jonathan Days</h1>
 <h3 align="center">A Full-Stack Engineer that creates efficient and impactful software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathancdays&label=Profile%20views&color=0e75b6&style=flat" alt="jonathancdays" /> </p>
