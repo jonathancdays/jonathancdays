@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jonathancdays@gmail.com**
 
-- ⚡ Fun fact **My favorite hobbies are rock climbing, ballroom dancing, and Brazilian Jiu-Jistu!**
+- ⚡ Fun fact **My favorite hobbies are rock climbing, mountain biking, ballroom dancing, and Brazilian Jiu-Jistu!**
 
 - Take a look at at my <a href="https://www.jonathancdays.com/" target="_blank" rel="noopener noreferrer">Portfolio!</a>
 
