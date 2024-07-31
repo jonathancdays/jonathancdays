@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact **My favorite hobbies are rock climbing, mountain biking, ballroom dancing, and Brazilian Jiu-Jistu!**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
