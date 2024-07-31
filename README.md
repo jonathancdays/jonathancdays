@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **My favorite hobbies are rock climbing, mountain biking, ballroom dancing, and Brazilian Jiu-Jistu!**
 
-- Take a look at at my <a href="https://www.jonathancdays.com/" target="_blank" rel="noopener noreferrer">Portfolio!</a>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
