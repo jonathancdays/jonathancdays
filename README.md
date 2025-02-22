@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathancdays&label=Profile%20views&color=0e75b6&style=flat" alt="jonathancdays" /> </p>
 
-- 🌱 I’m currently working with **JavaScript & React w/ Java & Spring Boot**
+- 🌱 I’m currently working with **JavaScript, C++, OpenGL, and Blender!**
 
 - 📫 How to reach me **jonathancdays@gmail.com**
 
